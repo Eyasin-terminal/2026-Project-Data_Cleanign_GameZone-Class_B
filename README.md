@@ -1,3 +1,5 @@
+![Project Banner](assets/gamezone_banner.png)
+
 Project Title: Data Integrity & Supply Chain Audit for GameZone Global
 Role: BI Analyst | Domain: Global E-Commerce & Retail
 Tools: MS Excel
