@@ -1,4 +1,4 @@
-![Project Banner](assets/gamezone_banner.png)
+![Project Banner](assets/Gamezone_banner.png)
 
 # Data Integrity & Supply Chain Audit for GameZone Global
 
