@@ -86,6 +86,7 @@ The following assets are now prepared for the Analytics Team:
 
 - **✅ The Golden Dataset**  
   Cleaned, standardized, and ready for Power BI/Tableau ingestion.
+  [resources/Cleaned_data_gamezone.xlsx](resources/Cleaned_data_gamezone.xlsx)
 
 - **📋 The Issue Log**  
   A detailed audit trail of every error found, its frequency, and the action taken (Fixed vs. Flagged).
