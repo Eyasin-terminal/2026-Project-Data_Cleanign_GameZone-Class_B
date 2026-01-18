@@ -4,16 +4,8 @@
 ## 🚀 Project Dashboard
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eyasin_terminal.2026-Project-Data_Cleanign_GameZone-Class_B)
-![Stars](https://img.shields.io/github/stars/Eyasin_terminal/2026-Project-Data_Cleanign_GameZone-Class_B?style=social)
-![Forks](https://img.shields.io/github/forks/Eyasin_terminal/2026-Project-Data_Cleanign_GameZone-Class_B?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/Eyasin_terminal/2026-Project-Data_Cleanign_GameZone-Class_B)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)
 ![Excel](https://img.shields.io/badge/Tool-MS%20Excel-green?style=flat-square&logo=microsoft-excel)
-
-![Stars](https://img.shields.io/github/stars/Eyasin_terminal/2026-Project-Data_Cleanign_GameZone-Class_B?style=social)
-![Forks](https://img.shields.io/github/forks/Eyasin_terminal/2026-Project-Data_Cleanign_GameZone-Class_B?style=social)
-
-
 
 # Data Integrity & Supply Chain Audit for GameZone Global
 
