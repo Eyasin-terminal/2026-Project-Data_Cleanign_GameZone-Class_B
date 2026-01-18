@@ -39,8 +39,6 @@ The project simulates a **"messy," real-world enterprise dataset** consisting of
   Geo-mapping data for country and store locations
 
 ### The Workflow
-*(Insert image of your data pipeline flow chart here if available)*
-
 1. **Ingestion:** Loading raw datasets  
 2. **Audit:** Creating a detailed **Issue Log** (Location, Frequency, Magnitude)  
 3. **Remediation:** Applying business logic to clean or flag data  
@@ -78,4 +76,19 @@ Beyond simple cleaning, I diagnosed two systemic issues within GameZone's operat
 - **The Issue:** Duplicate `Order_IDs` were assigned to different `User_IDs`.
 - **The Pattern:** My investigation found a 100% correlation: This **only** occurred with **"Nintendo Switch"** consoles purchased via the **"Website"**.
 - **Root Cause Diagnosis:** This suggests a technical **Race Condition**. During a high-traffic sales campaign (likely a flash sale), multiple users clicked "Buy" simultaneously, and the backend system failed to differentiate the sessions, assigning a common Order ID.
-- **Action Taken:** Flagged as a **"Technical Gli**
+- **Action Taken:** Flagged as a **"Technical Glitch"** and documented for the Web Engineering team to prevent future revenue tracking errors.
+
+---
+
+## 5. Final Deliverables
+
+The following assets are now prepared for the Analytics Team:
+
+- **✅ The Golden Dataset**  
+  Cleaned, standardized, and ready for Power BI/Tableau ingestion.
+
+- **📋 The Issue Log**  
+  A detailed audit trail of every error found, its frequency, and the action taken (Fixed vs. Flagged).
+
+- **📝 Analyst Note**  
+  A guide explaining how to handle the flagged "Time Travel" and "Nintendo Switch" rows during the analysis phase.
