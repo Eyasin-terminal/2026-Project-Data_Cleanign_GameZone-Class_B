@@ -1,4 +1,9 @@
 ![Project Banner](assets/Gamezone_banner.png)
+## 👀 Project Visitors
+
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Eyasin_terminal.2026-Project-Data_Cleanign_GameZone-Class_B
+)
+
 
 # Data Integrity & Supply Chain Audit for GameZone Global
 
