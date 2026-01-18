@@ -1,8 +1,4 @@
 ![Project Banner](assets/Gamezone_banner.png)
-# Data Integrity & Supply Chain Audit for GameZone Global
-
-## 🚀 Project Dashboard
-
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Eyasin_terminal.2026-Project-Data_Cleanign_GameZone-Class_B)
 ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)
 ![Excel](https://img.shields.io/badge/Tool-MS%20Excel-green?style=flat-square&logo=microsoft-excel)
