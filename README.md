@@ -98,3 +98,19 @@ The following assets are now prepared for the Analytics Team:
 
 - **📝 Analyst Note**  
   A guide explaining how to handle the flagged "Time Travel" and "Nintendo Switch" rows during the analysis phase.
+
+## 🏆 Skills Demonstrated in this Project
+
+### Hard Skills
+![Root Cause Analysis](https://img.shields.io/badge/Skill-RCA-blue?style=flat-square)
+![Data Quality Assurance](https://img.shields.io/badge/Skill-Data%20QA-green?style=flat-square)
+![E-Commerce & Supply Chain](https://img.shields.io/badge/Skill-E-Commerce%20%26%20Supply%20Chain-orange?style=flat-square)
+![Data Governance](https://img.shields.io/badge/Skill-Data%20Governance-purple?style=flat-square)
+![ETL Logic](https://img.shields.io/badge/Skill-ETL%20Workflow-red?style=flat-square)
+
+### Soft Skills
+![Business Acumen](https://img.shields.io/badge/Skill-Business%20Acumen-yellow?style=flat-square)
+![Analytical Skepticism](https://img.shields.io/badge/Skill-Analytical%20Skepticism-lightblue?style=flat-square)
+![Ambiguity Management](https://img.shields.io/badge/Skill-Ambiguity%20Management-pink?style=flat-square)
+![Stakeholder Communication](https://img.shields.io/badge/Skill-Stakeholder%20Communication-teal?style=flat-square)
+
