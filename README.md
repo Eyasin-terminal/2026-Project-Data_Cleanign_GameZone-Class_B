@@ -19,6 +19,7 @@ The Objective: To perform a rigorous Data Cleaning & Logic Audit to produce a "G
 
 ---
 
+![Table Structure & Relation](assets/Tables_Structure.png)
 ### 2. Data Architecture & Scope
 The project simulates a "messy," real-world enterprise dataset consisting of two core tables:
 * **Master Sales Table:** Transaction-level data (Order ID, User ID, Dates, Product Info).
